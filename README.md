@@ -1,7 +1,7 @@
 📊 Institutional Portfolio Risk & Performance Dashboard
 
 ## 📌 Overview
-An interactive Power BI dashboard analyzing 5-year performance of Malaysian equities against KLCI benchmark. Built for investment professionals at EPF, Khazanah, and PNB.
+An interactive Power BI dashboard analyzing 5-year performance of Malaysian equities against KLCI benchmark. Built for investment analysis and portfolio monitoring.
 
 ## 📈 Dashboard Pages
 

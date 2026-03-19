@@ -45,5 +45,5 @@ An interactive Power BI dashboard analyzing 5-year performance of Malaysian equi
 Actuarial Student, National University of Malaysia (UKM)  
 www.linkedin.com/in/arifshaikhan
 
-## 📅 Project COmpletion Date
+## 📅 Project Completion Date
 20 March 2026
